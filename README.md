@@ -6,7 +6,13 @@ Contact: szopiks@yahoo.com
 
 ***DESCRIPTION***
 
-In this application you can inventory all your beer kegs. Each beer Keg has 120 pints in them. Set a price to your keg or update an existing and start tracking how much money each one is making!
+In this application you can inventory all your beer kegs. Each beer Keg has 124 pints in them. Set a price to your keg or update an existing and start tracking how much money each one is making!
+User ca choose a name, brand and the price per keg.
+User can submit a form to add a new keg to the list
+User is be able to click on a keg to see its detail page.
+User can see how many pints are left in a keg. Hint: A full keg has roughly 124 pints.
+User is able to click a button next to a keg whenever I sell a pint of it. This should decrease the number of pints left by 1. Pints should not be able to go below 0.
+
 
 ***Setup/Installation Requirements***
 
