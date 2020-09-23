@@ -1,3 +1,55 @@
+***TAP-BAR***
+
+Created 09.20.20
+By Marcin Szopik
+Contact: szopiks@yahoo.com
+
+***DESCRIPTION***
+
+In this application you can inventory all your beer kegs. Each beer Keg has 120 pints in them. Set a price to your keg or update an existing and start tracking how much money each one is making!
+
+***Setup/Installation Requirements***
+
+1.git clone and go to directory
+2.type 'npm install && npm run start" in terminal
+
+
+***Component Diagram***
+
+
+
+
+
+
+***Bugs***
+
+Cant record multiple pints,does not give you 'sold out' alert
+
+***Technologies Used***
+
+ > React, Npm, webpacks, js.node, JEST, JS ES6
+ 
+***Style***
+
+Bootstrap style sheet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
