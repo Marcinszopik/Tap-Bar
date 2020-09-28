@@ -15,7 +15,7 @@ function ReusableForm(props){
         <input type='text'
         name='content'
         placeholder='How much alcohol' />
-        <textarea name='description' placeholder='Describe your issue.' />
+        <textarea name='description' placeholder='Description of the Beer' />
         <button type='submit'>{props.buttonText}</button>
       </form>
     </React.Fragment>

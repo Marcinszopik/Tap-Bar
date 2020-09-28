@@ -10,6 +10,7 @@ function KegDetail(props){
       <h2>{keg.name}</h2>
       <h3>Price: {keg.price} - Alchohol Content{keg.content}</h3>
       <p><em>{keg.description}</em></p>
+      <h3>How many kegs are left: {keg.pints}</h3>
       <button onClick={ props.onClickingEdit }>Update Keg</button>
       <button onClick={ props.onClickingBuy }>Buy a Pint</button>
       <button onClick={()=> onClickingDelete(keg.id) }>Close Keg</button> 
