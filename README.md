@@ -25,6 +25,9 @@ User is able to click a button next to a keg whenever I sell a pint of it. This 
 ***Component Diagram***
 
 
+![component tree](https://github.com/Marcinszopik/Tap-Bar/tree/master/src/assets)
+
+
 
 
 
